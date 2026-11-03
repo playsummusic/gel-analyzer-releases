@@ -1,3 +1,3 @@
 # gel-analyzer-releases
 
-#Download the newest version under Releases
+Download the newest version under Releases
